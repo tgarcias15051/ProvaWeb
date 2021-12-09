@@ -1,0 +1,4 @@
+table {width:300px;border-collapse: collapse; }
+.tb th, .tb td {border: solid 1px #777; padding: 5px;}
+.tb th {background: #3630a3; color: white; text-align: left;}
+.tcell {background: #f6f8ff;}
